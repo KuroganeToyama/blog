@@ -15,7 +15,7 @@ const imageMap = import.meta.glob('../../assets/*.{jpg,png,webp,svg}', {
 	eager: true,
 	import: 'default',
 });
-const imageSrc = imageMap[`../../assets/${heroImage}`];
+const imageSrc = imageMap[`${heroImage}`];
 ---
 
 <html lang="en">
