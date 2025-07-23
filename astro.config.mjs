@@ -10,5 +10,6 @@ export default defineConfig({
   site: 'https://kuroganetoyama.github.io',
   base: 'blog',
   integrations: [mdx(), sitemap()],
+  output: 'server',
   adapter: vercel({ imageService: true }),
 });
