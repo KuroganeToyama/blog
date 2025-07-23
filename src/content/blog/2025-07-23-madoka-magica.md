@@ -29,7 +29,7 @@ That, is one way to sum up Madoka Magica. But there are so many nuances from the
 
 On a personal note, I'm a yuri fan. A huge one. I'm also a fan of emotional stories. A huge one. And this series just ticked all the boxes for me. I like this series. I adore this series. You could call me obsessed or even insane and you still wouldn't be far off.
 
-Another thing that is often overlooked in movies in general. *Music*
+Another thing that is often overlooked in movies in general. *Music*.
 
 One does not simply understimate the impact that soundtracks bring to a movie.
 
