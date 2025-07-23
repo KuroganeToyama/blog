@@ -8,7 +8,7 @@ import vercel from '@astrojs/vercel';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://kuroganetoyama.github.io',
-  base: 'blog',
+  // base: 'blog',
   integrations: [mdx(), sitemap()],
   adapter: vercel(),
 });
