@@ -2,6 +2,7 @@
 title: 'About Making a Blog'
 description: 'About Making a Blog'
 pubDate: 'July 23 2025'
+heroImage: '../../assets/blog.jpg'
 ---
 
 I had the idea of posting random stuff that I find interesting for quite some time.
