@@ -11,7 +11,7 @@ If you're a CS major at the University of Waterloo, you most likely have taken t
 
 IF you're a CS major at the University of Waterloo and you're into advanced courses, there's CS 241E (E for enriched). It's the exact same as CS 241, with one big difference. You build a compiler for Scala, the functional programming version of Java. That sucks even more than WLP4 for 3 reasons:
 
-- It's a functional language. Ensuring immutatability is *not* trivial.
+- It's a functional language. Ensuring immutability is *not* trivial.
 - It's an OOP language. Managing objects is even less trivial than the above.
 - It has a garbage collector. You either know how to implement it or you take the L.
 
