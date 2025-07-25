@@ -29,7 +29,7 @@ And yet.
 
 "Do not do this thing." - Proceeds to do the exact opposite.
 
-"why the heck did you go with this obviously dumb idea?" - "I don't know..."
+"Why the heck did you go with this obviously dumb idea?" - "I don't know..."
 
 "What's the most important thing to you right now?" - "I have no idea..."
 
