@@ -25,7 +25,7 @@ For someone who *adores* anime/video game music and barely gives a shit about po
 
 And thus began my newfound goal in life. Ever since that fateful winter, whenever March, July, and November approaches, I have always looked forward to the EOT concert. And I have never once failed to attend an EOT concert. **Not a single one of them**.
 
-Whenever the concert posters begin to appear around campus, I always take a picture of it and try to figure out what songs/tracks would be performed in the concert.
+Whenever the concert posters begin to appear around campus, I always take a picture of it and try to figure out what songs/tracks would be performed at the concert.
 
 Before concert day, I always make sure I have dealt with all assignments. I want to make my mind as clear as possible to enjoy the concert to its fullest.
 
