@@ -55,7 +55,7 @@ Funny enough, after the seventh concert, I got so enthralled that I decided to b
 
 And it actually happened. **It. Actually. Happened**. Whether they went with my request or it was just a coincidence, **it actually happened**.
 
-During the concert yesterday, they performed the Madoka Magica medley. They chose the best tracks of the series and made the best out of them. Their perforamce was so mesmerizing, I was completely lost in my own world for the entire duration of the performance.
+During the concert yesterday, they performed the Madoka Magica medley. They chose the best tracks of the series and made the best out of them. Their performance was so mesmerizing, I was completely lost in my own world for the entire duration of the performance.
 
 Aaaaand I decided to make another music request, because I got greedy. This time, I asked for Steins;Gate. We shall see how this goes.
 
