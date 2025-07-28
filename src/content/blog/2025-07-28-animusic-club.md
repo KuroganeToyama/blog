@@ -51,7 +51,7 @@ The eighth concert, which occurred on July 27, one day before this blog is poste
 
 The only thing that hasn't quite improved is the quality of the skits they use to introduce the next performance. Sometimes it's normal, sometimes it's funny, sometimes it's cringy. But I find that mix of quality a unique thing of the EOT concert.
 
-Funny enough, after the seventh concert, I got so enthralled that I decided to ball and write an email requesting some music for the next concert. More specifically, I requested for a Madoka Magica medley. And if you know me, you know precisely just how much I wanted to listen to that medley.
+Funny enough, after the seventh concert, I got so enthralled that I decided to ball and write an email requesting some music for the next concert. More specifically, I requested a Madoka Magica medley. And if you know me, you know precisely just how much I wanted to listen to that medley.
 
 And it actually happened. **It. Actually. Happened**. Whether they went with my request or it was just a coincidence, **it actually happened**.
 
