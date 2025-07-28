@@ -37,7 +37,7 @@ And that's not just it.
 
 With every passing term, the quality of the concert gradually improves.
 
-The first concert, the room didn't have enough seatings.
+The first concert, the room didn't have enough seatings and there were still some technical mishaps on the stage.
 
 The second concert, they chose the biggest lecture hall on campus.
 
