@@ -19,7 +19,7 @@ Touhou Project is not well-known.
 
 Not everyone appreciates how astonishing the danmaku are. Not everyone appreciates how beautiful the character themes are. Not everyone appreciates how mesmerizing the world building is. And yet, those are all the aspects that made up the charm of Touhou Project.
 
-Hell, the last time I went to an anime concert and they had Touhou Project, it was Bad Apple. Now, Bad Apple is an absolute banger, but we also have tens of other soundtracks on the banger level.
+Hell, the last time I went to an anime concert and they had Touhou Project, it was Bad Apple. Now, Bad Apple is an absolute banger, but we also have tens of other soundtracks of the same caliber or even higher.
 
 So, what is Touhou Project?
 
