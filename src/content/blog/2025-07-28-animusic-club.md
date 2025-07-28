@@ -23,7 +23,7 @@ It was my first time witnessing anime and video game music performed on a profes
 
 For someone who *adores* anime/video game music and barely gives a shit about pop music, I knew that I had found *my* club. I knew that no matter what happens, no matter the cost, I *have* to attend the concert **every single term**.
 
-And thus begins my newfound goal in life. Ever since that fateful winter, whenever March, July, and November approaches, I have always looked forward to the EOT concert. And I have never once failed to attend an EOT concert. **Not a single one of them**.
+And thus began my newfound goal in life. Ever since that fateful winter, whenever March, July, and November approaches, I have always looked forward to the EOT concert. And I have never once failed to attend an EOT concert. **Not a single one of them**.
 
 Whenever the concert posters begin to appear around campus, I always take a picture of it and try to figure out what songs/tracks would be performed in the concert.
 
