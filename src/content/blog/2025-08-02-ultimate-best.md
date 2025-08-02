@@ -31,6 +31,6 @@ Below, you can find the link to each song and its lyrics, as well as a little de
 | Yume Oto | [Song](https://www.youtube.com/watch?v=mo6HaQCW6Bc) | Duet character song for Kaname Madoka and Akemi Homura, sung by Yuuki Aoi and Saitou Chiwa. | [Lyrics](https://www.tumblr.com/thewhitefluffyhat/169383369078/homuramadoka-duet-yume-oto-lyrics-translation) |
 | Stairs | [Song](https://www.youtube.com/watch?v=qR2KeUJqSN4) | Duet character song for Tomoe Mami and Sakura Kyouko. | [Lyrics](https://soundcloud.com/user-181818496/stairs-mami-tomoe-kyoko-sakura-character-song-puella-magi-madoka-magica) |
 
-If you're wondering why the last song has a Soundcloud URL for the lyrics, then it's because that's only place with English lyrics.
+If you're wondering why the last song has a Soundcloud URL for the lyrics, then it's because that's the only place with English lyrics.
 
 Also, please use the correct order for Japanese names (last name - first name). If you happen to be familiar with the contrary, then honestly, I don't give a shit. Maintain the original. Be a real weeb.
