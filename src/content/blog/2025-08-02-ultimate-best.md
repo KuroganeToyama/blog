@@ -25,11 +25,11 @@ Below, you can find the link to each song and its lyrics, as well as a little de
 
 | Title    | URL     | Description   | Lyrics |
 | -------- | ------- | ------------- | ------ |
-| naturally | [Song](https://www.youtube.com/watch?v=pFgAdrGjflU) | Official duet character song for Kaname Madoka and Miki Sayaka, sung by Yuuki Aoi and Kitamura Eri | [Lyrics](https://aimailyrics.com/post/165994287641/madoka-magica-slot-naturally-translation) |
-| Akogare Saita | [Song](https://www.youtube.com/watch?v=xlbWL06n4MM) | Another character song for Kaname Madoka, sung by Yuuki Aoi | [Lyrics](https://thewhitefluffyhat.tumblr.com/post/169383697058/madoka-magica-slot-game-akogare-saita) |
-| Mebius Ash | [Song](https://www.youtube.com/watch?v=j5KrYVLkJxM) | Character song for Akemi Homura, sung by Saitou Chiwa | [Lyrics](https://thewhitefluffyhat.tumblr.com/post/169418079363/mebius-ash-translation) |
-| Yume Oto | [Song](https://www.youtube.com/watch?v=mo6HaQCW6Bc) | Duet character song for Kaname Madoka and Akemi Homura, sung by Yuuki Aoi and Saitou Chiwa | [Lyrics](https://www.tumblr.com/thewhitefluffyhat/169383369078/homuramadoka-duet-yume-oto-lyrics-translation) |
-| Stairs | [Song](https://www.youtube.com/watch?v=qR2KeUJqSN4) | Duet character song for Tomoe Mami and Sakura Kyouko | [Lyrics](https://soundcloud.com/user-181818496/stairs-mami-tomoe-kyoko-sakura-character-song-puella-magi-madoka-magica) |
+| naturally | [Song](https://www.youtube.com/watch?v=pFgAdrGjflU) | Official duet character song for Kaname Madoka and Miki Sayaka, sung by Yuuki Aoi and Kitamura Eri. | [Lyrics](https://aimailyrics.com/post/165994287641/madoka-magica-slot-naturally-translation) |
+| Akogare Saita | [Song](https://www.youtube.com/watch?v=xlbWL06n4MM) | Another character song for Kaname Madoka, sung by Yuuki Aoi. | [Lyrics](https://thewhitefluffyhat.tumblr.com/post/169383697058/madoka-magica-slot-game-akogare-saita) |
+| Mebius Ash | [Song](https://www.youtube.com/watch?v=j5KrYVLkJxM) | Character song for Akemi Homura, sung by Saitou Chiwa. | [Lyrics](https://thewhitefluffyhat.tumblr.com/post/169418079363/mebius-ash-translation) |
+| Yume Oto | [Song](https://www.youtube.com/watch?v=mo6HaQCW6Bc) | Duet character song for Kaname Madoka and Akemi Homura, sung by Yuuki Aoi and Saitou Chiwa. | [Lyrics](https://www.tumblr.com/thewhitefluffyhat/169383369078/homuramadoka-duet-yume-oto-lyrics-translation) |
+| Stairs | [Song](https://www.youtube.com/watch?v=qR2KeUJqSN4) | Duet character song for Tomoe Mami and Sakura Kyouko. | [Lyrics](https://soundcloud.com/user-181818496/stairs-mami-tomoe-kyoko-sakura-character-song-puella-magi-madoka-magica) |
 
 If you're wondering why the last song has a Soundcloud URL for the lyrics, then it's because that's only place with English lyrics.
 
