@@ -23,8 +23,8 @@ Anyways, back to the main topic. The character songs in *Ultimate Best* are real
 
 Below, you can find the link to each song and its lyrics, as well as a little description for each song. Please give them a try, they're really good. Pretty please.
 
-| Title    | URL | Description | Lyrics |
-| -------- | ------- | -------- | --------- |
+| Title    | URL     | Description   | Lyrics |
+| -------- | ------- | ------------- | ------ |
 | naturally | [Song](https://www.youtube.com/watch?v=pFgAdrGjflU) | Official duet character song for Kaname Madoka and Miki Sayaka, sung by Yuuki Aoi and Kitamura Eri | [Lyrics](https://aimailyrics.com/post/165994287641/madoka-magica-slot-naturally-translation) |
 | Akogare Saita | [Song](https://www.youtube.com/watch?v=xlbWL06n4MM) | Another character song for Kaname Madoka, sung by Yuuki Aoi | [Lyrics](https://thewhitefluffyhat.tumblr.com/post/169383697058/madoka-magica-slot-game-akogare-saita) |
 | Mebius Ash | [Song](https://www.youtube.com/watch?v=j5KrYVLkJxM) | Character song for Akemi Homura, sung by Saitou Chiwa | [Lyrics](https://thewhitefluffyhat.tumblr.com/post/169418079363/mebius-ash-translation) |
