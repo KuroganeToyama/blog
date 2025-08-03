@@ -19,19 +19,25 @@ In the thumbnail, the girl in red is Sakura Kyouko, and the girl in blue is Miki
 
 Kyouko is abrasive and selfish. She lacks any sense of justice, only doing everything for herself. She earned Sayaka's disdain from the very first time they met. Yet, when Sayaka was hurt, Kyouko went out of her way to care for Sayaka, even when she didn't do it in the best way. Kyouko was willing to do anything to save Sayaka.
 
-Kyouko is caring and understanding. She cared a lot for her family. She once made a wish for the sake of her family. But that wish took her family away. The young girl tried to cope with her reality, and did everything for herself. She thought to herself, "a wish for someone else only leads to misfortune".
+Kyouko is caring and understanding. She cared a lot for her family. She once made a wish for the sake of her family. But that wish took her family away from her. The young girl tried to cope with her reality, and did everything for herself. She thought to herself, "a wish for someone else only leads to misfortune". But her kind self never really disappeared. It was just buried deep in her heart.
 
-Deep down, Kyouko is a kind and fragile girl.
+In the end, Kyouko decided to stay by Sayaka's side, so that Sayaka wouldn't be lonely anymore. Because more than anyone, Kyouko knew what it felt like to be lonely. Sayaka had always suffered from being unreciprocated, and so Kyouko wished to remain by her side.
+
+Deep down, Kyouko is a fragile girl.
 
 Sayaka is kind and courageous. She has a strong sense of justice and a strong devotion to her friends, willing to work hard for others. She wants to make everyone happy. Yet, the more she devoted to others, the more she came to loathe herself. Sayaka was willing to suffer on her own.
 
-Sayaka is careless and ignorant. She never cared for herself and relied on other people returning her feelings. But the boy she loved was oblivious to her sacrifices for him. The young girl fell into despair and destroyed herself. It took someone else sacrificing everything to save her, for her to love herself again, and to love someone else again.
+Sayaka is careless and ignorant. She never cared for herself and relied on other people returning her feelings. But the boy she loved was oblivious to her sacrifices for him. The young girl fell into despair and destroyed herself. It took someone else sacrificing everything to save her, so that she could learn to love herself again. To open herself to someone else and to rely on someone else. To care for someone else again, and to love someone else again.
 
-Deep down, Sayaka is a kind and fragile girl.
+> "I thought I didn't have any regrets when I died. But the reason I ended up taking this assignment and coming back, was because I actually do have one regret. The fact that I left you behind."
+
+In the end, Sayaka went back to stay by Kyouko's side, so that Kyouko wouldn't be lonely anymore. Because more than anyone, Sayaka knew how lonely Kyouko was. Everyone in Kyouko's life had always left her behind, and so Sayaka wished to remain by her side.
+
+Deep down, Sayaka is a fragile girl.
 
 That, is what this song is about.
 
-It isn't about two magical girls who shared the same terrible fate in the end.
+It isn't about two magical girls who shared a terrible fate.
 
 It's about two girls who found each other and tried to protect each other from their own insecurities.
 
