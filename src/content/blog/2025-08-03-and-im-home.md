@@ -52,6 +52,7 @@ Sayaka admits her own insecurity to Kyouko.
 They decide to stay by each other's side, in spite of the cruel world.
 
 > No matter how many times you feel that way, there will always be warmth here.
+
 > Even if it was a mistake, I don't care, I'll always be by your side.
 
 Even if you hate yourself; I will always be here for you.
@@ -59,6 +60,7 @@ Even if you hate yourself; I will always be here for you.
 **Verse 2**
 
 > When the bluff of false courage in my voice began to falter, the dream began to end
+
 > Holding my knees, when my vision fades, I know I'll quickly collapse.
 
 Sayaka admits her own insecurity to Kyouko.
@@ -68,11 +70,13 @@ Sayaka admits her own insecurity to Kyouko.
 Kyouko will do anything to make Sayaka happy again.
 
 > With a simple and innocent face, let's embrace our disheveled feelings.
+
 > Even this place where we've lost ourselves feels so gentle.
 
 They decide to stay by each other's side, in spite of the cruel world.
 
 > I'll keep calling your name no matter how many times, even if the future is uncertain.
+
 > It's hard to say goodbye, it hurts every time I think of you.
 
 No matter what happens, I just want to stay by your side.
@@ -80,7 +84,9 @@ No matter what happens, I just want to stay by your side.
 **Ending**
 
 > I'm right here.
+
 > I'm right here.
+
 > Please come back and be with me.
 
 A call from the depth of her heart, calling for her significant other to stay by her side.
@@ -110,3 +116,5 @@ Not a single word of "love" was uttered.
 And yet.
 
 All that existed within the song, was love.
+
+So, [will you give it a try?](https://www.youtube.com/watch?v=GIlMPJNk-pU)
