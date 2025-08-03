@@ -19,7 +19,7 @@ In the thumbnail, the girl in red is Sakura Kyouko, and the girl in blue is Miki
 
 Kyouko is abrasive and selfish. She lacks any sense of justice, only doing everything for herself. She earned Sayaka's disdain from the very first time they met. Yet, when Sayaka was hurt, Kyouko went out of her way to care for Sayaka, even when she didn't do it in the best way. Kyouko was willing to do anything to save Sayaka.
 
-Kyouko is caring and understanding. She cared a lot for her family. She once made a wish for the sake of her family. But that wish took her family away from her. The young girl tried to cope with her reality, and did everything for herself. She thought to herself, "a wish for someone else only leads to misfortune". But her kind self never really disappeared. It was just buried deep in her heart.
+Kyouko is caring and understanding. She cared a lot for her family. She once made a wish for the sake of her family. But that wish took her family away from her. The young girl tried to cope with her reality, and began to do everything for herself. She believed that a wish for someone else only leads to misfortune. But her kind self never really disappeared. It was just buried deep in her heart.
 
 In the end, Kyouko decided to stay by Sayaka's side, so that Sayaka wouldn't be lonely anymore. Because more than anyone, Kyouko knew what it felt like to be lonely. Sayaka had always suffered from being unreciprocated, and so Kyouko wished to remain by her side.
 
