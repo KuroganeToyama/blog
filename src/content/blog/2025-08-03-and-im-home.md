@@ -55,7 +55,7 @@ They decide to stay by each other's side, in spite of the cruel world.
 
 > Even if it was a mistake, I don't care, I'll always be by your side.
 
-Even if you hate yourself; I will always be here for you.
+Even if you hate yourself, I will always be here for you.
 
 **Verse 2**
 
