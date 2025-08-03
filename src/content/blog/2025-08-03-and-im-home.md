@@ -35,7 +35,11 @@ It isn't about two magical girls who shared the same terrible fate in the end.
 
 It's about two girls who found each other and tried to protect each other from their own insecurities.
 
-So, how did the lyrics express that? Lemme walk you through the important lyrics in each verse.
+So, how did the lyrics express that?
+
+First, please read through the lyrics [here](https://wiki.puella-magi.net/And_I%27m_Home) if you haven't already.
+
+Done reading? Now I shall walk you through the important lyrics in each verse.
 
 **Verse 1**
 
