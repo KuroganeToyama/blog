@@ -81,7 +81,7 @@ You really don't need to say "I love you" to tell someone that you love them.
 
 Homura went through endless pain and suffering to save Madoka. But Madoka decided to become a goddess for everyone's sake. Homura failed to save Madoka. Homura fell into despair and became a witch. Everyone teamed up to save Homura from the Nutcracker Witch. Homura returned as a magical girl and Madoka decided to take her to the heavens.
 
-You know that feeling when your world view changes significantly, usually for the worse, after you have experienced extreme negative conditions, whether physically or psychologically, and come out of that, still alive? This is exactly what is happening here.
+You know that feeling when your world view changes significantly, usually for the worse, after you have experienced extremely negative conditions, whether physically or psychologically, and come out of that, still alive? This is exactly what is happening here.
 
 Homura fell into despair and came back. Her view became extremely twisted. She decided to do *whatever* it takes to save Madoka, even if it meant trampling Madoka's wish. She stole a portion of Madoka's power as a goddess and separate the girl from the goddess. With that power, she rewrote the entire universe and gave everyone a happy life. The entire sequence where the universe was being rewritten was nothing short of an artistic masterpiece. Homura's expressions were nothing short of a true devil. And of course,
 
