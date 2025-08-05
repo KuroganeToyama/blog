@@ -21,7 +21,7 @@ Despite being an anime series about magical girls, there has never been a single
 
 I would have included music in the previous section, but the music nerd in me said "That ain't how we do things around here. We dedicate a separate section for the music."
 
-*Holy Quintet* is the [soundtrack](https://www.youtube.com/watch?v=LF1ek8uzHZo) played during the Holy Quintet transformation sequence. Perhaps to complement the fact that this is for the *Holy* Quintet, the entire track has a very strong orchestral vibe to it. You know how grandiose orchestral versions are. The track itself is a medley, comprised of orchestral versions of five soundtracks from the 12 episodes. Each track is associated with one girl. *Salve, Terrae Magicae* for Mami, *Venari Strigas* for Kyouko, *Decretum* for Sayaka, *Inevitabilis* for Homura, and *Sagitta Luminis* for Madoka. These tracks aren't character themes per say. Rather, they are strongly associated with each girl in crucial scenes from the 12 episodes. 
+[*Holy Quintet*](https://www.youtube.com/watch?v=LF1ek8uzHZo) is the soundtrack played during the Holy Quintet transformation sequence. Perhaps to complement the fact that this is for the *Holy* Quintet, the entire track has a very strong orchestral vibe to it. You know how grandiose orchestral versions are. The track itself is a medley, comprised of orchestral versions of five soundtracks from the 12 episodes. Each track is associated with one girl. *Salve, Terrae Magicae* for Mami, *Venari Strigas* for Kyouko, *Decretum* for Sayaka, *Inevitabilis* for Homura, and *Sagitta Luminis* for Madoka. These tracks aren't character themes per say. Rather, they are strongly associated with each girl in crucial scenes from the 12 episodes. 
 
 - [*Salve, Terrae Magicae*](https://www.youtube.com/watch?v=KNckHcB75fY) (Latin for *Welcome to a magical world*) was played when Mami first appeared to save Madoka and Sayaka from a witch, which was also the first time we saw a magical girl in the series. I know that Mami is usually associated with [*Credens Justitiam*](https://www.youtube.com/watch?v=A_J3UhPK-Zo) (Latin for *Believe in justice*), but *Salve, Terrae Magicae* works better as an opening. I also did not recognize that it was *Salve, Terrae Magicae* when Mami was transforming. Shame on me.
 
@@ -45,11 +45,11 @@ The first battle ever between two magical girls and I must say, Studio Shaft *de
 
 Welcome to another music section. You should be expecting this kind of thing at this point tbh.
 
-*Absolute Configuration* is the [soundtrack](https://www.youtube.com/watch?v=b1xyLNp24s8) played during the Homura vs Mami sequence. If you know Kajiura Yuki, the composer for the Madoka Magica series, then you probably first know her as the composer of the Sword Art Online anime series. You know how amazing those battle themes in SAO are (I'm looking at you, *Swordland* and *Luminous Sword*). *Absolute Configuration* is of that same caliber. I do not need to say more. This track just blends so well with the fighting sequence.
+[*Absolute Configuration*](https://www.youtube.com/watch?v=b1xyLNp24s8) is the soundtrack played during the Homura vs Mami sequence. If you know Kajiura Yuki, the composer for the Madoka Magica series, then you probably first know her as the composer of the Sword Art Online anime series. You know how amazing those battle themes in SAO are (I'm looking at you, *Swordland* and *Luminous Sword*). *Absolute Configuration* is of that same caliber. I do not need to say more. This track just blends so well with the fighting sequence.
 
 #### 5. Noi!
 
-*Noi!* is the [theme](https://www.youtube.com/watch?v=7YwH3yYIkJ4) of Homulily, the Nutcracker Witch, the witch form of Homura. The lyrics is written in broken German, as someone has pointed out under the YouTube comment section. I don't know shit about German, so I have no commentaries there. All I know is that the track is damn good. Very cool witch music. We should probably petition for more witch music. We don't have enough of those. And tbh, does being grammatically correct matter that much if it already complements the melody so damn well?
+[*Noi!*](https://www.youtube.com/watch?v=7YwH3yYIkJ4) is the theme of Homulily, the Nutcracker Witch, the witch form of Homura. The lyrics is written in broken German, as someone has pointed out under the YouTube comment section. I don't know shit about German, so I have no commentaries there. All I know is that the track is damn good. Very cool witch music. We should probably petition for more witch music. We don't have enough of those. And tbh, does being grammatically correct matter that much if it already complements the melody so damn well?
 
 #### 6. Kyouko and Sayaka
 
@@ -73,7 +73,7 @@ You really don't need to say "I love you" to tell someone that you love them.
 
 #### 7. We're here for you
 
-*We're here for you* is the [soundtrack](https://www.youtube.com/watch?v=PVeyUTawPwQ) played when everyone teamed up to save Homura from the Nutcracker Witch (and get rid of the goddamn Kyubeys at the same time). One of the few soundtracks of the series, if not the only one, to be completely filled with hope. This was also the third evolution of the leitmotif found in *Sis Puella Magica* (Latin for *Be a magical girl*) and *Decretum*. Even when I didn't consciously realize the leitmotif when I first heard it, the leitmotif was already etched so deep within my subconsciousness that this supposedly brand new soundtrack just activated all of my neurons. I later also figured out that the encore part of this track was used at the ending theme for the first and second movies, titled *For the next episode*. Talk about foreshadowing.
+[*We're here for you*](https://www.youtube.com/watch?v=PVeyUTawPwQ) is the soundtrack played when everyone teamed up to save Homura from the Nutcracker Witch (and get rid of the goddamn Kyubeys at the same time). One of the few soundtracks of the series, if not the only one, to be completely filled with hope. This was also the third evolution of the leitmotif found in *Sis Puella Magica* (Latin for *Be a magical girl*) and *Decretum*. Even when I didn't consciously realize the leitmotif when I first heard it, the leitmotif was already etched so deep within my subconsciousness that this supposedly brand new soundtrack just activated all of my neurons. I later also figured out that the encore part of this track was used at the ending theme for the first and second movies, titled *For the next episode*. Talk about foreshadowing.
 
 #### 8. Devil Homura
 
@@ -91,11 +91,11 @@ The best quote of love ever. Change my mind.
 
 #### 9. I was waiting for this moment
 
-*I was waiting for this moment* is the [soundtrack](https://www.youtube.com/watch?v=r_hwT_uAxc0) played when Homura decided to become the devil and rebelled against the goddess. The percussions at the beginning indicates that something is not right, and as the track goes on, violins were added, violins became more intense, the vocals became more passionate. It accompanied the entire sequence so damn well. Devil Homura/10.
+[*I was waiting for this moment*](https://www.youtube.com/watch?v=r_hwT_uAxc0) is the soundtrack played when Homura decided to become the devil and rebelled against the goddess. The percussions at the beginning indicates that something is not right, and as the track goes on, violins were added, violins became more intense, the vocals became more passionate. It accompanied the entire sequence so damn well. Devil Homura/10.
 
 #### 10. Mada Dame Yo
 
-*Mada Dame Yo* is an [insert song](https://www.youtube.com/watch?v=u_BXFfQhSDk) that serves as the leitmotif of the entire movie. It captures the entirety of Homura's emotional state, which is at the center of the entire movie. It is extremely short as a soundtrack. It is extremely impactful as a leitmotif. Not Yet/10.
+[*Mada Dame Yo*](https://www.youtube.com/watch?v=u_BXFfQhSDk) is an insert song that serves as the leitmotif of the entire movie. It captures the entirety of Homura's emotional state, which is at the center of the entire movie. It is extremely short as a soundtrack. It is extremely impactful as a leitmotif. Not Yet/10.
 
 #### Final Notes
 
