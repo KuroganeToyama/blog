@@ -97,4 +97,6 @@ The best quote of love ever. Change my mind.
 
 *Mada Dame Yo* is an [insert song](https://www.youtube.com/watch?v=u_BXFfQhSDk) that serves as the leitmotif of the entire movie. It captures the entirety of Homura's emotional state, which is at the center of the entire movie. It's extremely short as a soundtrack, yet extremely impactful as a soundtrack. Not Yet/10.
 
+#### Final Notes
+
 I somehow managed to make this a Top 10 compilation despite not giving a crap about how long this post was gonna be. Anyways, the fourth movie, *Walpurgisnacht Rising*, is scheduled to be released in February 2026. I'm in Canada, and February is the worst time possible for winter. **But**. If the movie makes its way to North America, you can be damn sure I ain't gonna give a crap about my horrible winter tolerance.
