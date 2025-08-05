@@ -91,7 +91,7 @@ The best quote of love ever. Change my mind.
 
 #### 9. I was waiting for this moment
 
-*I was waiting for this moment* is the [soundtrack](https://www.youtube.com/watch?v=r_hwT_uAxc0) played when Hoomura decided to become the devil and rebelled against the goddess. The percussions at the beginning indicates that something is not right, and as the track goes on, violins were added, violins became more intense, the vocals became more passionate. It accompanied the entire sequence so damn well. Devil Homura/10.
+*I was waiting for this moment* is the [soundtrack](https://www.youtube.com/watch?v=r_hwT_uAxc0) played when Homura decided to become the devil and rebelled against the goddess. The percussions at the beginning indicates that something is not right, and as the track goes on, violins were added, violins became more intense, the vocals became more passionate. It accompanied the entire sequence so damn well. Devil Homura/10.
 
 #### 10. Mada Dame Yo
 
