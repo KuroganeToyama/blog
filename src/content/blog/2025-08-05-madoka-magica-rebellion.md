@@ -9,7 +9,7 @@ Image source: It's from the official illustrator of Madoka Magica, Aoki Ume, so 
 
 To begin, the proper title is *Puella Magi Madoka Magica the Movie: The Rebellion Story*. If you're interested, the Japanese title is 劇場版 魔法少女まどか☆マギカ［新編］叛逆の物語 (Gekijouban Mahou Shoujo Madoka Magika [Shinpen]: Hangyaku no Monogatari). But I'm just gonna refer to the movie as *Rebellion*.
 
-*Rebellion* is the third Madoka Magica movie. The first and second movies are remakes of the 12 anime episodes, with upgraded graphics and new original soundtracks. *Rebellion* is the sequel to the 12 anime episodes. I can spend 3 hours yapping about why *Rebellion* is amazing and I would still have more stuff to talk about. So no, I ain't gonna do that here. Instead, this blog is a compilation of things that I enjoyed about the movie.
+*Rebellion* is the third Madoka Magica movie. The first and second movies are remakes of the 12 anime episodes, with upgraded graphics and new original soundtracks. *Rebellion* is the sequel to the 12 anime episodes. I could spend 3 hours yapping about why *Rebellion* is amazing and I would still have more stuff to talk about. So no, I ain't gonna do that here. Instead, this blog is a compilation of things that I enjoyed about the movie.
 
 #### 1. Holy Quintet Transformation Sequence
 
