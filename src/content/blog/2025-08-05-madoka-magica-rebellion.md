@@ -95,7 +95,7 @@ The best quote of love ever. Change my mind.
 
 #### 10. Mada Dame Yo
 
-*Mada Dame Yo* is an [insert song](https://www.youtube.com/watch?v=u_BXFfQhSDk) that serves as the leitmotif of the entire movie. It captures the entirety of Homura's emotional state, which is at the center of the entire movie. It's extremely short as a soundtrack, yet extremely impactful as a soundtrack. Not Yet/10.
+*Mada Dame Yo* is an [insert song](https://www.youtube.com/watch?v=u_BXFfQhSDk) that serves as the leitmotif of the entire movie. It captures the entirety of Homura's emotional state, which is at the center of the entire movie. It's extremely short as a soundtrack, yet extremely impactful as a leitmotif. Not Yet/10.
 
 #### Final Notes
 
