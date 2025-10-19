@@ -56,7 +56,7 @@ They took the high risk mortgages, bundled them together to keep making MBS, and
 
 Additionally, to deal with the lack of good mortgages, the banks came up with a new product. Collateralized debt obligation, or CDO for short. This was where they took slices of different MBS that didn't sell, along with other kinds of debts that were not about mortgages, and bundled the whole thing into a MBS, only this time it's called a CDO because it's every debt instead of mortgage debt. And then they sold CDOs to investors, in tranches, just like MBS. And to quote Jared Vennett when he was explaining how dumb the entire system was to Mark Baum's team,
 
-> ... and then the people at the rating agencies give it a 92, 93 precent AAA rating, no questions asked.
+> ... and then the people at the rating agencies give it a 92, 93 percent AAA rating, no questions asked.
 
 #### 3. The second "brilliant" idea
 
@@ -94,7 +94,7 @@ And that wasn't the worst of it. You really didn't think only US banks did this 
 
 #### 7. The lesson
 
-The whole crisis came to be simply because banks and investors believed in mere assumptions without ever verifying it for themselves. It didn't matter how good the statistical models were, they were only as good as the people making them. And humans are inheritively flawed.
+The whole crisis came to be simply because banks and investors believed in mere assumptions without ever verifying it for themselves. It didn't matter how good the statistical models were, they were only as good as the people making them. And humans are inherently flawed.
 
 I could go on and on about the 1000 different lessons to be learned from this one crisis. But Jared Vennett said it better.
 
