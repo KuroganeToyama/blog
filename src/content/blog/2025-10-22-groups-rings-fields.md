@@ -67,7 +67,7 @@ And finally, a field is a ring that supports division. Division is the inverse o
 
 And that's as much visualization as I could give you. Terribly sorry if it sounds bad, because it really does.
 
-#### 2. Why the heck do we even care about these things?
+#### 3. Why the heck do we even care about these things?
 
 Ah, now we get to the most important question of all. Why give a shit at all?
 
@@ -83,7 +83,7 @@ First, calculus. Calculus is the study of continuous change, how a system change
 
 Second, cryptography. The idea about cryptography is that you make communication secured, i.e. if Alice sends a message to Bob, Alice and Bob are the only two people in the world who can read the contents of that message (ideally speaking). So, the message has to be encrypted in a way such that no one besides Alice and Bob can decrypt it, and that Alice and Bob must each be able to decrypt it on their own. So, Alice and Bob will each hold a private key, Alice should not know Bob's private key and vice versa. Then, they have a public key that they share, the key used to encrypt the message. So, here's how it goes. Alice sends a message, meesage is encrypted using public key, encrypted message goes to Bob, Bob decrypts the encrypted message using Bob's private key, Bob reads message. And then vice versa. So, the one thing to keep in mind here, is that the private key and the public key must have some relationship. More specifically, if the message is encrypted with this public key, then the private key better be able to decrypt it. There's a forward action and a backward action. So that's where field theory jumps in. Computer scientists use some of the most complex fields ever for cryptography, so complex that no human mind could visualize, and yet they could still say with confidence that their system is bloody secured because field theory offers tools to verify that.
 
-#### 3. What's the lesson?
+#### 4. What's the lesson?
 
 Well, it's totally understandable if you don't wanna get involved with these stuff. I mean, I only got to know them because my senpai was way too enthusiastic about them. But remember, they stay around for a reason. And a very very good reason at that.
 
