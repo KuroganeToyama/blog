@@ -56,7 +56,7 @@ They took the high risk mortgages, bundled them together to keep making MBS, and
 
 Additionally, to deal with the lack of good mortgages, the banks came up with a new product. Collateralized debt obligation, or CDO for short. This was where they took slices of different MBS that didn't sell, along with other kinds of debts that were not about mortgages, and bundled the whole thing into a MBS, only this time it's called a CDO because it's every debt instead of mortgage debt. And then they sold CDOs to investors, in tranches, just like MBS. And to quote Jared Vennett when he was explaining how dumb the entire system was to Mark Baum's team,
 
-> ... and then the people at the rating agencies give it a 92, 93 percent AAA rating, no questions asked.
+> "... and then the people at the rating agencies give it a 92, 93 percent AAA rating, no questions asked."
 
 #### 3. The second "brilliant" idea
 
@@ -66,7 +66,7 @@ At this point, if you had a heart and it was still beating, you would almost cer
 
 At this point, like what Mark Baum said to Vinnie Daniel after his field investigation,
 
-> Hey, there's a bubble.
+> "Hey, there's a bubble."
 
 #### 4. The third "brilliant" idea
 
@@ -74,7 +74,7 @@ Very unfortunately, that was still not the end of it. Because the banks got anot
 
 As demonstrated in the movie, an initial mortgage bond of 50 million dollars could turn into 1 billion dollars through these layers of products. The market related to mortgage was 20 times bigger than the actual values of the mortgages. And to top it up, the movie narrated,
 
-> If the mortgage bond was the match, and the CDOs was a kerosene-soaked rag, then the synthetic CDOS was the atomic bomb with a drunk president holding his finger over the button.
+> "If the mortgage bond was the match, and the CDOs was a kerosene-soaked rag, then the synthetic CDOS was the atomic bomb with a drunk president holding his finger over the button."
 
 #### 5. The first domino fell
 
