@@ -7,7 +7,7 @@ heroImage: '../../assets/tropical-cyclone.png'
 
 Image source: https://en.wikipedia.org/wiki/Tropical_cyclone.
 
-I come from a country that is plagued by tropical cyclones on a yearly basis, starting from July and neding in December. I'm not exaggerating, and I don't want to exaggerate either. Anyways, because of my origin, naturally I got curious about how tropical cyclones are formed. In the lingo, it's called cyclogenesis. Cyclo- means circular, and -genesis means formation. So, cyclogenesis means formation of circular stuff.
+I come from a country that is plagued by tropical cyclones on a yearly basis, starting from July and ending in December. I'm not exaggerating, and I don't want to exaggerate either. Anyways, because of my origin, naturally I got curious about how tropical cyclones are formed. In the lingo, it's called cyclogenesis. Cyclo- means circular, and -genesis means formation. So, cyclogenesis means formation of circular stuff.
 
 Now, if you want the most comprehensive documentation ever on how cyclogenesis works, you can read it [here](https://en.wikipedia.org/wiki/Tropical_cyclogenesis). But if you want a summary, then continue reading this post.
 
