@@ -1,6 +1,6 @@
 ---
-title: 'About Singles' Day'
-description: 'About Singles' Day'
+title: 'About Single Day'
+description: 'About Single Day'
 pubDate: 'November 18 2025'
 heroImage: '../../assets/singles-day.png'
 ---
