@@ -81,8 +81,10 @@ Cooper: You're a scientist, Brand. <br>
 Brand: So listen to me, when I say that love is not something we invented. It's observable, powerful. It has to mean something. <br>
 Cooper: Love has meaning, yes. Social utility, social bonding, child rearing... <br>
 Brand: We love people who've died. Where's the "social utility" in that? <br>
-Cooper: None. <br>
+Cooper: None.
 </blockquote>
+
+Seriously people, pay more attention.
 
 #### 3. Oppenheimer
 
