@@ -31,7 +31,7 @@ It's about sending a message. <br>
 Everything burns."
 </blockquote>
 
-Another (in)famous quote from the Joker. Money in particular, or materialsm in general, is also just another we humans came up with as we gradually became into a society. Strip society away and we're simply left with the human nature. And human nature is chaos. Or in the Joker's words, "everything burns".
+Another (in)famous quote from the Joker. Money in particular, or materialsm in general, is also just another we humans came up with as we gradually became a society. Strip society away and we're simply left with the human nature. And human nature is chaos. Or in the Joker's words, "everything burns".
 
 <blockquote>
 "You either die a hero, or you live long enough to see yourself become the villain."
