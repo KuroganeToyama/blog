@@ -61,7 +61,7 @@ As always, my class' reputation was truly something to be feared among students 
 
 My best friend (at that time anyway) had a crush on a girl! I tried to be the best wingman ever, and I was fucking excellent at it. Too bad, his interest in her went away after 2 months or so. Instead, I had a crush on her. I even dreamed of a family with her. Dear lord I was pathetic.
 
-Our beloved class president got into a relationship with a dude who was also a class president just right next door. Unfortunately, it turned into a Korean drama. It wasn't exactly pleasantly having to see my class president crying over that dude on a weekly basis.
+Our beloved class president got into a relationship with a dude who was also a class president just right next door. Unfortunately, it turned into a Korean drama. It wasn't exactly pleasant having to see my class president crying over that dude on a weekly basis.
 
 At this point, I had begun to drop my nice guy act. If they didn't do anything to me, then I simply feigned ignorance to their existence. If they did, I would just get unruly rude and pissed off. Somehow I never cursed at them, at least not right into their face. I would also just refuse to offer any help to any of them, unless they begged me so bad that I had to give in just to not escalate shit any further.
 
@@ -73,7 +73,7 @@ At the end of grade 8, I somehow passed the selection test for math. I still don
 
 Now, there were two big things for me. One, train my ass off for the prestigious math contest. Two, grind my ass off for the entrance exam into the most prestigious high school of the city.
 
-Stress level was off the roof. I could barely keep up with anything, not even my normal schoolwork. At one point I dropped one of my cram class because I just wanted to sleep.
+Stress level was off the roof. I could barely keep up with anything, not even my normal schoolwork. At one point, I dropped one of my cram class because I just wanted to sleep.
 
 Even then, it wasn't enough. I no longer felt any joy in studying. Yeah, I should have been studying for my future, but somehow that was no longer relevant to me at the time. So I began to find things I could indulge in. Didn't take me long to become a full-time weeb. Worse yet, I began to spend the majority of my time to binge watch game playthroughs on YouTube. I was one good laptop/console away from being a full-time gamer.
 
