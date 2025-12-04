@@ -47,7 +47,7 @@ At some point during the school year, I learned that one of the *few* dudes I be
 
 I also grew enough to realize that two thirds of my class were rich kids. Meanwhile, I was an ordinary kid from an ordinary family. No fucking wonder.
 
-Oh yeah, did I mention that I always maintained my pilteness towards my classmates despite everything they had done? Yeah, I also got taunted for being "the exemplary student" of the class. Funny, I know. I was just trying to live a peaceful junior high school life. They never let me go.
+Oh yeah, did I mention that I always maintained my politeness towards my classmates despite everything they had done? Yeah, I also got taunted for being "the exemplary student" of the class. Funny, I know. I was just trying to live a peaceful junior high school life. They never let me go.
 
 Grade 7 ended with me saying goodbye to our current campus to go back to the main campus for the rest of junior high. Good god that secondary campus was nothing but a nightmare. Damn ground so low it was flooded year fucking round.
 
