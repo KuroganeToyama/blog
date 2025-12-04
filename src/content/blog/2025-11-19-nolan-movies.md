@@ -98,7 +98,9 @@ Interestingly enough, the real J. Robert Oppenheimer actually said this after th
 "When they've punished you enough, they'll serve you salmon and potato salad, make speeches, give you a medal, and pat you in the back telling all is forgiven. Just remember, it won't be for you... it would be for them."
 </blockquote>
 
-This line from Einstein alluded to what happened to the real Oppenheimer after the Trinity Test. But more than that, it speaks about the nature of our world. People blamed Oppenheimer because he created the atomic bomb. But Oppenheimer didn't change the world with his creation of the atomic bomb. It was the hostility of the world that changed itself with the creation of the atomic bomb. And then, when people finally forgave Oppenheimer and redeemed him, they didn't do it because they were genuinely apologetic to Oppenheimer. They did it to convince themselves that everything was inevitable, and that it wasn't their fault that the world just moved one step closer to self-destruction. Remember, a weapon is never inherently good or bad. Only the person using it is.
+This line from Einstein alluded to what happened to the real Oppenheimer after the Trinity Test. But more than that, it speaks about the nature of our world. People blamed Oppenheimer because he created the atomic bomb. But Oppenheimer didn't change the world with his creation of the atomic bomb. It was the hostility of the world that changed itself with the creation of the atomic bomb. And then, when people finally forgave Oppenheimer and redeemed him, they didn't do it because they were genuinely apologetic to Oppenheimer. They did it to convince themselves that everything was inevitable, and that it wasn't their fault that the world just moved one step closer to self-destruction.
+
+Remember, a weapon is never inherently good or bad. Only the person using it is.
 
 #### 4. Closing words
 
