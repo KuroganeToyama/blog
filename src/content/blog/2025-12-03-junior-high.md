@@ -33,7 +33,7 @@ There was this thing called the grade leaderboard. Our grade 6 had 15 classes in
 
 After every leaderboard revelation, we would always get a big scolding from our homeroom teacher. Well, our performance was basically saying our homeroom teacher couldn't manage us at all, so the scolding was inevitable.
 
-At the end of grade 6, some idiots in my class decided to let the whole class watch *Sword Art Online* and *Shoukugeki no Souma*. And they made a very clear intention of emphasizing the ecchi sections. I didn't even know what anime was at the time, but those idiots completely ruined my first impression of anime. Thank god I became a proper weeb in grade 9 and learned how goated *Sword Art Online* actually was. Them soundtracks go hard indeed.
+At the end of grade 6, some idiots in my class decided to let the whole class watch *Sword Art Online* and *Shokugeki no Souma*. And they made a very clear intention of emphasizing the ecchi sections. I didn't even know what anime was at the time, but those idiots completely ruined my first impression of anime. Thank god I became a proper weeb in grade 9 and learned how goated *Sword Art Online* actually was. Them soundtracks go hard indeed.
 
 #### 2. Grade 7
 
