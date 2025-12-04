@@ -85,7 +85,7 @@ I remained grumpy and spiteful towards my classmates. At least nothing in that d
 
 I somehow got the silver medal for the math contest, despite having been the worst guy in the training camp. Guess I got lucky.
 
-We hosted a buffet party as our last gathering before junior high graduation. Many tears were shed. I could feel the vivid and strong emotions. I just couldn't be bothered to feel the same my classmates did.
+We hosted a buffet party as our last gathering before junior high graduation. Many tears were shed. I could feel the vivid and strong emotions. I just couldn't be bothered to feel the same way `my classmates did.
 
 I somehow got myself admitted into the most prestigious high school of the city. The girl I loved also passed the entrance exam, but she chose a different high school since the prestigious one was too far from home. And that was the last I saw of her. Yeah well, my mental health kinda deteriorated during high school, so that was for the best I guess.
 
