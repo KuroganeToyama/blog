@@ -25,7 +25,7 @@ Turns out, just because you're a prestigious student doesn't mean you're not cap
 
 If you were me and you didn't really like to conform to society, and by society I mean my class, then you received a bunch of things from your classmates ranging from mere teases to just outright insults. I wanted nothing to do with them, yet they never once considered sparing my life. Somehow I still maintained my politeness to them. What the fuck was I thinking?
 
-Being the pranksters of the royal court that they were, they would do just about anything to prank someone else and earn either discomfort, sometimes hatred, from other students, or punishmentd from the teachers. And let me make this very clear. **The teachers**, not a teacher. And you might have guessed, the punishments didn't do shit. They remained the absolute pranksters that they were.
+Being the pranksters of the royal court that they were, they would do just about anything to prank someone else and earn either discomfort, sometimes hatred, from other students, or punishments from the teachers. And let me make this very clear. **The teachers**, not a teacher. And you might have guessed, the punishments didn't do shit. They remained the absolute pranksters that they were.
 
 At some point, every single one of our teachers just had a very long face whenever they had to step into my class. Homeroom teacher included.
 
@@ -57,7 +57,7 @@ At this point, we were back to main campus, and our reputation was that of the m
 
 In my place, we always had this prestigious city-level contest near the end of grade 9. So training was to begin when grade 9 began, and selection was thus done at the end of grade 8. So grade 8 just turned into a year of grinding for the selection test. I could barely do math, but I couldn't do any other subject at all, so I decided to grind math anyway. I didn't really want to do any of it, but my parents goaded me into trying, so I did just that.
 
-As always, my class' reputation was truly something to be feared among students and teachers. You could call it a legend even, and you wouldn't be exagerrating much. It was very hardly the case that you could find a class so bad that it induced trauma into every single techer who ever had the misfortune of having to teach that class. But somehow, we had one, and it was my class. Terrific.
+As always, my class' reputation was truly something to be feared among students and teachers. You could call it a legend even, and you wouldn't be exagerrating much. It was very hardly the case that you could find a class so bad that it induced trauma into every single teacher who ever had the misfortune of having to teach that class. But somehow, we had one, and it was my class. Terrific.
 
 My best friend (at that time anyway) had a crush on a girl! I tried to be the best wingman ever, and I was fucking excellent at it. Too bad, his interest in her went away after 2 months or so. Instead, I had a crush on her. I even dreamed of a family with her. Dear lord I was pathetic.
 
@@ -71,7 +71,7 @@ At the end of grade 8, I somehow passed the selection test for math. I still don
 
 #### 4. Grade 9
 
-Now, there were two big things for me. One, train my ass off for the prestigious math contest. Two, grind my ass of for the entrance exam into the most prestigious high school of the city.
+Now, there were two big things for me. One, train my ass off for the prestigious math contest. Two, grind my ass off for the entrance exam into the most prestigious high school of the city.
 
 Stress level was off the roof. I could barely keep up with anything, not even my normal schoolwork. At one point I dropped one of my cram class because I just wanted to sleep.
 
