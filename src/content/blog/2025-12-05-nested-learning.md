@@ -43,7 +43,7 @@ Recent pipelines for AI models all look something like this. First, you have the
 
 So, what's the issue?
 
-The issue is that raw input (texts, images, videos, whatever) can only be processed by the outermost level, the in-context learning level. Raw input is useless for either optimizer or architecture, because neither optimizer nor architecture speaks in raw input. They only speak in gradient descent. This leads to one major downside of current AI pipelines. The model cannot learn **during inference**. This is basically saying your brain cannot update anything when it receives new information *in real time*. Which is, well, just blatantly wrong. Your brain most certainly always updates memory and knowledge as it receives new data in real time. But current AI models cannot do that.
+The issue is that raw input (texts, images, videos, whatever) can only be processed by the outermost level, the in-context learning level. Raw input is useless for both optimizer and architecture, because neither optimizer nor architecture speaks in raw input. They only speak in gradient descent. This leads to one major downside of current AI pipelines. The model cannot learn **during inference**. This is basically saying your brain cannot update anything when it receives new information *in real time*. Which is, well, just blatantly wrong. Your brain most certainly always updates memory and knowledge as it receives new data in real time. But current AI models cannot do that.
 
 And it's fair that current AI models cannot do that. The pipeline of architecture - optimizer - in-context learning was based directly on the oudated model of the brain. Plus, it's a pipeline we've been using for decades, so there's that as well.
 
