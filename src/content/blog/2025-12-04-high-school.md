@@ -81,7 +81,7 @@ The SAT went by and most of us got early admission into our desired university a
 
 The class decided to host a BBQ night party right before graduation. The party went alright. Several people got unbelievably drunk from 5% beer and soju. The sober ones, including me, had to escort them back to the room. We forgot to bring a scrub to clean the grills. Holy shit, washing the grills with nothing but bare hands and soap was a fucking pain.
 
-Our medical friend got addmitted into medical school! Along with his girlfriend! He had probably the highest true total score, but he was placed at rank 10 in the leaderboard because other students with not as high true total scores received a fuck ton of additional regional points. Can we please fine tune the fucking system please?
+Our medical friend got admitted into medical school! Along with his girlfriend! He had probably the highest true total score, but he was placed at rank 10 in the leaderboard because other students with not as high true total scores received a fuck ton of additional regional points. Can we please fine tune the fucking system please?
 
 Grade 12 ended up with members of the class going separate ways, my group of friends still in contact with each other over Discord, and IRCC trolling me for not submitting my visa application sooner.
 
