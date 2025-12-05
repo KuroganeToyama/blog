@@ -11,7 +11,7 @@ Welcome to another post where I yap about some AI stuff despite not being an AI 
 
 I, for one, am not into academia. Brain not beeg enough for that. I can still read papers if that helps. Some of my friends do be into academia though.
 
-The perks of having friends who are in academia is that you get to stay updated with latest researches and not having to comb through every sinlge post/comment on fricking Reddit and then receive a wildly misleading view of the research. Plus, my friends know their stuff very well, so I get to hold intellectual conversations with them. And by that I mean I get to express my surprise about this and that and they get to enlighten me. It goes both ways.
+The perks of having friends who are in academia is that you get to stay updated with the latest researches and not having to comb through every sinlge post/comment on fricking Reddit and then receive a wildly misleading view on the research. Plus, my friends know their stuff very well, so I get to hold intellectual conversations with them. And by that I mean I get to express my surprise about this and that and they get to enlighten me. It goes both ways.
 
 Around a month ago, a paper was released. The paper proposed a new paradigm in building and training AI models called nested learning. In case you haven't realized, the link to the paper is right at the top. I also didn't know about the existence of this paper until my friend told me.
 
@@ -59,7 +59,7 @@ That we did. But, it only sucks because the two inner layers cannot interpret ra
 
 Architecture learns at the slowest rate, since it's the foundation of the model. Architecture to an AI model is like identity to a person. You are a humble person. You are an aggressive person. You are a moderate person. That's identity.
 
-Optimizer learns at a medium rate, since it's just trying to tweak how the architecture learns. An aggressive person can learn to calm down, but it's gonna take more than just a couple of days to go from agressive to humble.
+Optimizer learns at a medium rate, since it's just trying to tweak how the architecture learns. An aggressive person can learn to calm down, but it's gonna take more than just a couple of days to go from aggressive to humble.
 
 In-context learning learns at the fastest rate, since well, it's answering your prompts mate. This corresponds to, unsurprisingly, you talking to other people. Your brain immediately knows what to say in response to other people. If the other person looks sad, your brain immediately knows not to say stupid shit. If the other person looks happy, your brain immediately knows you can say many things. But that's the logical aspect. Whether you can actually adhere to your brain is a different story that we're not gonna cover, because I'm no neuroscientist.
 
