@@ -51,7 +51,7 @@ So now, the paper proposes nested learning, a pipeline based on the more updated
 
 #### 3. So what is nested learning?
 
-Nested learning is a recurrent neural network (RNN) which 3 layers. Innermost layer behaves like architecture, next layer behaves like optimizer, and outermost layer behaves like in-context learning.
+Nested learning is a recurrent neural network (RNN) with 3 layers. Innermost layer behaves like architecture, next layer behaves like optimizer, and outermost layer behaves like in-context learning.
 
 "Wait, what? Didn't we just say the current pipeline sucks?"
 
