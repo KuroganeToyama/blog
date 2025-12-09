@@ -11,7 +11,7 @@ The term *competitive programming* may sound unfamiliar to you. Well, ever heard
 
 Also, I'm gonna refer to competitive programming as CP from this point forward.
 
-I do like to emphasize that this is not *How to CP 101*, or even *How to LeetCode 101* for that matter. There's like 1000 different blog sites for that already. Granted, not all of them are high quality, but they exist in abundance.
+I do like to emphasize that this is not *How to CP 101*, or even *How to LeetCode 101* for that matter. There's like 1000 different blog sites for that already. Granted, not all of them are high quality, but they do be existing in abundance.
 
 This blog post is simply my experience with CP, if you can even call it like that.
 
@@ -35,10 +35,10 @@ That was fun and all, but then grade 12 hit everyone like a truck and suddenly w
 
 I had to find a job right after first year. Welcome to co-op program, folks. That was when I learned about the existence of LeetCode. And I also found a fuck ton of online guides on how to grind LeetCode for your technical interviews. And yeah, do I look like I gave a shit?
 
-Second year of CS major and everyone got hit with the DSA courses. I got out of those courses perfectly fine. Not that I got a 90% in those courses or anything, but they didn't become a nightmare for me like they did for my peers. You people thought these courses and LeetCode were painful huh? You ain't seen shit. Unless you already did ICPC, in which case you have my admiration.
+Second year of CS major and everyone got hit with the DSA courses. I got out of those courses perfectly fine. Not that I got a 90% in those courses or anything, but they didn't become a nightmare for me like they did for my peers. You people thought these courses and LeetCode were painful huh? You ain't seen shit. Unless you already did ICPC, in which case you have my utmost respect and admiration.
 
-Advent of Code has always been a thing, except I never bothered with it until this year when my friend goaded me into doing it. It was kinda fun actually. Except for day 6, who the hell thought parsing challenge was a good idea?
+Advent of Code has always been a thing, except I never bothered with it until this year when my friend goaded me into doing it. It was kinda fun actually. Except for day 6. Who the hell thought parsing challenge was a good idea?
 
-In a nutshell, my experience with CP can be described in 2 lines. If you give me a problem and ask me to provide the approach to the solution, I can give it to you on the fly. But if you tell me to also implement the solution on the fly, then I *am* gonna suck, quite a lot.
+In a nutshell, my experience with CP can be described in 2 lines. If you give me a problem and ask me to describe the solution, i.e. what data structure to use and what algorithm to use, I can give it to you on the fly. But if you tell me to also implement the solution on the fly, then I *am* gonna suck, quite a lot.
 
 In fact, I just screwed up implementing BFS in my most recent technical interview.
