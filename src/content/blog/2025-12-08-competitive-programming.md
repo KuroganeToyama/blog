@@ -42,3 +42,5 @@ Advent of Code has always been a thing, except I never bothered with it until th
 In a nutshell, my experience with CP can be described in 2 lines. If you give me a problem and ask me to describe the solution, i.e. what data structure to use and what algorithm to use, I can give it to you on the fly. But if you tell me to also implement the solution on the fly, then I *am* gonna suck, quite a lot.
 
 In fact, I just screwed up implementing BFS in my most recent technical interview.
+
+Btw, here's a really nice source of knowledge: https://cp-algorithms.com/index.html
