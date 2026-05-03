@@ -25,13 +25,13 @@ Temporal legal QA is legal QA but now you wanna take into account the factor of 
 
 Multi-hop reasoning is a jargon of the LLM era. Basically, given a question, instead of asking the LLM to just answer that question right away, which is prone to a lot of halluncination even with reasoning, you break the initial question into subquestions in a way such that each subquestion simply requires extracting facts and no reasoning is needed. Then, after you have all the facts, you let the LLM reason about those facts to answer the initial question. By constraining the LLM to only the extracted relevant facts, you make it very unlikely to hallucinate. If it does, then it's reasoning skill issue. In other words, use a better model.
 
-Here's an example of multi-hop reasoning. Let's say the question is "Which university did the CEO of Tesla attend?". Multi-hop reasoning would break this one into two subquestions, first would be "Who is the CEO of Tesla?", and then "Given that I know who the CEO of Tesla is, which university did they attend?". For any subquestion, you could see that it's just a matter of extracting facts. The money is in how you get the system to know that it should first figure out the idenity of the CEO of Tesla, and then it should include that identity in the next question about university. In shorter terms, multi-hop reasoning should know what subquestions to ask and how to combine the answers of those subquestions.
+Here's an example of multi-hop reasoning. Let's say the question is "Which university did the CEO of Tesla attend?". Multi-hop reasoning would break this one into two subquestions, first would be "Who is the CEO of Tesla?", and then "Given that I know who the CEO of Tesla is, which university did they attend?". For any of those subquestions, you could see that it's just a matter of extracting facts. The money is in how you get the system to know that it should first figure out the identity of the CEO of Tesla, and then it should include that identity in the next question about university. In shorter terms, multi-hop reasoning should know what subquestions to ask and how to combine the answers of those subquestions.
 
 One subtle thing that I haven't mentioned is that you want the system to provide answers based solely on the legal documents you provide it with. That way, you can control its behaviors, loosely speaking.
 
 And that, ladies and gentlemen, is temporal legal QA with multi-hop reasoning.
 
-Also, just in case you're wondering why they even bother doing this when LLM is too good already, I dare you follow the legal advice of an LLM.
+Also, just in case you're wondering why they even bother doing this when LLM is too good already, I dare you to follow the legal advice of an LLM.
 
 #### 3. A few words about my friend's research
 
@@ -46,7 +46,7 @@ If the last two sound confusing, just think of it this way: understanding what i
 
 The first requirement is more of a software engineering thing. You just kinda experiment with a bunch of RAG frameworks and figure out which works best for your use case.
 
-The last two requires fine-tuning the multi-hop reasoning. First, you define what it means to perform multi-hop reasoning, i.e. creating the framework. Then, you fine-tune a model on its multi-hop reasoning behaviors. And oh yeah, you perform this whole thing separately for each requirement.
+The last two requires fine-tuning the multi-hop reasoning. First, you define what it means to perform multi-hop reasoning, i.e. creating the framework. Then, you fine-tune a model on its multi-hop reasoning behaviors, based on that framework you just defined. And oh yeah, you perform this whole thing separately for each requirement.
 
 Fine-tuning in this circumstance was "interesting" for my friend's team, to say the least. To fine-tune, you need a dataset. In this case, a dataset of pairs of question-and-answer in the legal field, with temporal elements like year and month included.
 
@@ -66,11 +66,11 @@ Now, onto the shenanigans I experienced while working on the project.
 
 Never let anyone convince you otherwise.
 
-Before you could even think of setting up RAG, you need to be able to extract information from the documents first. And whenever I encounter an arbitrary PDF, half the time it does NOT have standard formatting. Exhibit A are my lecture slides, 10% words and 90% images with words. Exhibit B are Vietnamese legal documents, they possess such ancient formattings I couldn't even copy-paste the damn text properly.
+Before you could even think of setting up RAG, you need to be able to extract information from the documents first. And whenever I encounter an arbitrary PDF, half of the time it does NOT have standard formatting. Exhibit A are my lecture slides, 10% text and 90% images with text. What the heck professors? Exhibit B are Vietnamese legal documents, they possess formattings so ancient I couldn't even copy-paste the damn text properly.
 
 So I tried to take care of the extraction phase. Tried a couple of local approaches until I decided to give up and instead spam API calls to LlamaParse to get beautifully formatted documents in markdown files. It's really good, it just works, plus you get 10,000 free credits.
 
-Next, you need to choose a chunking strategy. Your average tutorial would tell you to chunk at some specific length with some common chunking algorithm and it just works. Nuh uh. Legal documents are very specific in how they format the text. You must customize the chunking for legal documents. Unless you wanna spend 1 hour asking "why the F does the retrieval suck so bad?" like I did.
+Next, you need to choose a chunking strategy. Your average tutorial would tell you to chunk at some specific length with some common chunking algorithm and it just works. Nuh uh. Legal documents are very specific in how they format the text. You must customize the chunking for legal documents. Unless you wanna spend 1 hour asking "why the F does retrieval suck so bad?" like I did.
 
 And then, and only then, do you finally get to say "just RAG it". I just did the standard. Embed the chunks, store them in some vector database, then use top-k retrieval. voila.
 
